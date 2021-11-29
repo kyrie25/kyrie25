@@ -1,1 +1,2 @@
-This GitHub account is made to ease my coding assignment pain
+Not a dev and nor a programmer  
+Most of the time I don't know what I'm doing
