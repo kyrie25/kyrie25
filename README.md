@@ -4,7 +4,7 @@ Not a developer and nor a programmer
 I do stuff the actual devs consider too tedious to do  
 Currently making presences for <a href="https://premid.app/users/368399721494216706">PreMiD</a> whenever I feel like it  
 #### My DMs are NOT open, but unless you do have to contact me regarding my work  
-You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) and click on my profile below  
+You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) then click on my profile below  
 <a href="https://discord.com/users/368399721494216706" >  
   <img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
 </a>  
