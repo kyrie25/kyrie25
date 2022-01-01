@@ -1,6 +1,6 @@
 <div align="center">  
 	
-Not a developer and nor a programmer  
+Not a developer nor a programmer  
 I do stuff the actual devs consider too tedious to do  
 Currently making presences for <a href="https://premid.app/users/368399721494216706">PreMiD</a> whenever I feel like it  
 #### My DMs are NOT open, but unless you do have to contact me regarding my work  
