@@ -1,9 +1,10 @@
 <div align="center">  
 	
-Not a dev and nor a programmer  
+Not a developer and nor a programmer  
 I do stuff the actual devs consider too tedious to do  
-Most of the time I don't know what I'm doing  
 Currently making presences for <a href="https://premid.app/users/368399721494216706">PreMiD</a> whenever I feel like it  
+#### My DMs are NOT open, but unless you do have to contact me regarding my work  
+You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) and click on my profile below  
 <a href="https://discord.com/users/368399721494216706" >  
   <img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
 </a>  
