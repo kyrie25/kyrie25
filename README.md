@@ -1,15 +1,16 @@
 <div align="center">
-	
-# No idea why I'm even here
-![image](https://media.discordapp.net/attachments/875034196354158602/928216451494580284/cirnospin.gif)  
-## Me
+	<h1> 🎈 No idea why I'm even here 🎈</h1>
+	<img src="https://media.discordapp.net/attachments/875034196354158602/928216451494580284/cirnospin.gif")  
+	     </div>
 <div align="center">
+	<h2> 📖 Few things about me 📖 </h2>  
 	
 Not a developer nor a programmer  
 I do stuff the actual devs consider too tedious to do  
 Currently making presences for <a href="https://premid.app/users/368399721494216706">PreMiD</a> whenever I feel like it  
-#### My DMs are NOT open, but unless you do have to contact me regarding my work  
+	<strong> My DMs are NOT open, but unless you do have to contact me regarding my work  </strong>  
 You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) then click on my profile below  
+</div>
 <div align="center">
 	<a href="https://discord.com/users/368399721494216706" >  
   		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
@@ -18,7 +19,7 @@ You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) 
 
 <div align="center"> 
 	
-## My stats
+	<h2> 📈 My stats 📉 </h2>
 </div>
 <div align="center"> 
 	<a href="https://github.com/kyrie25">
