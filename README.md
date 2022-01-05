@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <div align="center">
 	<h1> 🎈 No idea why I'm even here 🎈</h1>
 	<img src="https://media.discordapp.net/attachments/875034196354158602/928216451494580284/cirnospin.gif")  
@@ -35,3 +38,6 @@ You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) 
 	<a href="https://hits.seeyoufarm.com">
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyrie25&count_bg=%2357BDDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 	</a>
+</div>
+</body>
+</html>
