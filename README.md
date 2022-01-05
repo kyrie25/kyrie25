@@ -18,7 +18,6 @@ You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) 
 </div>
 
 <div align="center"> 
-	
 	<h2> 📈 My stats 📉 </h2>
 </div>
 <div align="center"> 
