@@ -29,6 +29,13 @@ You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) 
 	</a>
 </div>  
 	  
+</div>
+<div align="center"> 
+	<a href="https://github.com/kyrie25">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react">
+	</a>
+</div>
+	
 <div align="center">
 	<a href="https://github.com/kyrie25">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&theme=react">
