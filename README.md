@@ -25,20 +25,20 @@ You can do so by joining the [PreMiD Discord server](https://discord.gg/premid) 
 </div>
 <div align="center"> 
 	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&count_private=true&include_all_commits=true&show_icons=true&theme=react&custom_title=Kyrie's GitHub Stats" alt="Kyrie's GitHub Stats">
+		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&count_private=true&include_all_commits=true&show_icons=true&theme=react&cache_seconds=1800&custom_title=Kyrie's GitHub Stats" alt="Kyrie's GitHub Stats">
 	</a>
 </div>  
 	  
 </div>
 <div align="center"> 
 	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&cache_seconds=1800">
 	</a>
 </div>
 	
 <div align="center">
 	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&theme=react">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&theme=react&cache_seconds=1800">
 	</a>
 </div>
 
