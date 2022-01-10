@@ -2,10 +2,10 @@
 <html>
 <body>
 <div align="center">
-	<h1> 🎈 No idea why I'm even here 🎈</h1>
+	<h1> 🎧 Current obsession 🎧 </h1>
 	<a href="https://www.youtube.com/watch?v=M9moY0hEJRE">
-		<img src="https://media.discordapp.net/attachments/875034196354158602/929928234978656256/ezgif.com-gif-maker_2.gif")  
-		     </a>
+		<img src="https://user-images.githubusercontent.com/77577746/148712860-84b20557-c31b-400e-83e6-fa4672ec1c03.gif" /> 
+	</a>
 </div>
 <div align="center">
 	<h2> 📖 Few things about me 📖 </h2>  
