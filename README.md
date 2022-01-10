@@ -3,8 +3,10 @@
 <body>
 <div align="center">
 	<h1> 🎈 No idea why I'm even here 🎈</h1>
-	<img src="https://media.discordapp.net/attachments/875034196354158602/928216451494580284/cirnospin.gif")  
-	     </div>
+	<a href="https://www.youtube.com/watch?v=M9moY0hEJRE">
+		<img src="https://media.discordapp.net/attachments/875034196354158602/929928234978656256/ezgif.com-gif-maker_2.gif")  
+		     </a>
+</div>
 <div align="center">
 	<h2> 📖 Few things about me 📖 </h2>  
 	
