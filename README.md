@@ -25,12 +25,6 @@
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&cache_seconds=1800">
 	</a>
 </div>
-	
-<div align="center">
-	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&theme=react&cache_seconds=1800">
-	</a>
-</div>
 
 <div align="center">
 	<a href="https://hits.seeyoufarm.com">
