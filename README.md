@@ -12,20 +12,6 @@
   		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
 	</a>  
 </div>
-
-<div align="center"> 
-	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&count_private=true&include_all_commits=true&show_icons=true&theme=react&cache_seconds=1800&custom_title=Kyrie's GitHub Stats" alt="Kyrie's GitHub Stats">
-	</a>
-</div>  
-	  
-</div>
-<div align="center"> 
-	<a href="https://github.com/kyrie25">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&cache_seconds=1800">
-	</a>
-</div>
-
 <div align="center">
 	<a href="https://hits.seeyoufarm.com">
 		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyrie25&count_bg=%2357BDDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
