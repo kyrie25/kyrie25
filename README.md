@@ -5,7 +5,7 @@
 	</a>
 </div>
 	<a href="https://discord.com/users/368399721494216706" >  
-  		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  align="right"/>  
+  		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  align="left" />  
 	</a>  
 <a href="https://github.com/kyrie25">
 	<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&show_icons=true&theme=react&include_all_commits=true&count_private=true&custom_title=Kyrie's GitHub Stats" align="left" />
