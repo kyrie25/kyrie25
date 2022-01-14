@@ -4,6 +4,11 @@
 	</a>
 </div>
 <div align="center">
+	<a href="https://discord.com/users/368399721494216706" >  
+  		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
+	</a>  
+</div>
+<div align="center">
 	<a href="http://kyrie25.github.io/" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&show_icons=true&include_all_commits=true&count_private=true&custom_title=Kyrie's GitHub Stats&theme=react" />  
 	</a>
@@ -14,9 +19,9 @@
 	</a>
 </div>
 <div align="center">
-	<a href="https://discord.com/users/368399721494216706" >  
-  		<img src="https://lanyard-profile-readme.vercel.app/api/368399721494216706"  />  
-	</a>  
+	<a href="http://kyrie25.github.io/" >  
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&langs_count=10&theme=react" />  
+	</a>
 </div>
 <div align="center">
 	<a href="https://hits.seeyoufarm.com">
