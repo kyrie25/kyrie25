@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://www.youtube.com/watch?v=JhuaYitvAaw">
-		 <img src="https://user-images.githubusercontent.com/77577746/149295795-2f85be53-922c-4bd6-87d2-1e13c869ab6f.gif" />
+	<a href="http://kyrie25.github.io">
+		 <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
 	</a>
 </div>
 <div align="center">
