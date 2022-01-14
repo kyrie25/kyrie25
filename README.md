@@ -9,17 +9,17 @@
 	</a>  
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io/portfolio" >  
+	<a href="http://kyrie25.github.io" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&show_icons=true&include_all_commits=true&count_private=true&custom_title=Kyrie's GitHub Stats&theme=react" />  
 	</a>
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io/portfolio" >  
+	<a href="http://kyrie25.github.io" >  
   		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react" />  
 	</a>
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io/portfolio" >  
+	<a href="http://kyrie25.github.io" >  
   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&langs_count=10&theme=react" />  
 	</a>
 </div>
