@@ -1,6 +1,6 @@
 <div align="center">
 	<h6> click the rrat </h6>
-	<a href="http://kyrie25.github.io">
+	<a href="http://kyrie25.me">
 		 <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
 	</a>
 </div>
@@ -10,17 +10,17 @@
 	</a>  
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io" >  
+	<a href="http://kyrie25.me" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=kyrie25&show_icons=true&count_private=true&custom_title=Kyrie's GitHub Stats&theme=react" />  
 	</a>
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io" >  
+	<a href="http://kyrie25.me" >  
   		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react" />  
 	</a>
 </div>
 <div align="center">
-	<a href="http://kyrie25.github.io" >  
+	<a href="http://kyrie25.me" >  
   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie25&langs_count=10&theme=react" />  
 	</a>
 </div>
