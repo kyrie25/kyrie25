@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 	<a href="http://kyrie25.me" >  
-  		<img src="https://readme-stats.kyrie25.me/api/wakatime?username=kyrie25&theme=react" />  
+  		<img src="https://readme-stats.kyrie25.me/api/wakatime?username=kyrie25&theme=react&layout=compact" />  
 	</a>
 </div>
 <div align="center">
