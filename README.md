@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 	<a href="http://kyrie25.me" >  
-  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&layout=compact" />  
+  		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&layout=compact&range=last_7_days" />  
 	</a>
 </div>
 <div align="center">
