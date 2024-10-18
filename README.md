@@ -1,22 +1,22 @@
 <div align="center">
 	<h6> click the rrat </h6>
-	<a href="http://kyrie25.me">
+	<a href="http://kyrie25.dev">
 		 <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
 	</a>
 </div>
 <div align="center">
 	<a href="https://discord.com/users/368399721494216706" >  
-  		<img src="https://lanyard.kyrie25.me/api/368399721494216706?imgStyle=square"  />  
+  		<img src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square"  />  
 	</a>  
 </div>
 <div align="center">
-	<a href="http://kyrie25.me" >  
-  		<img src="https://readme-stats.kyrie25.me/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react" />  
+	<a href="http://kyrie25.dev" >  
+  		<img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react" />  
 	</a>
 </div>
 <div align="center">
-	<a href="http://kyrie25.me" >  
-  		<img src="https://readme-stats.kyrie25.me/api/wakatime?username=kyrie25&theme=react&layout=compact&range=last_7_days" />  
+	<a href="http://kyrie25.dev" >  
+  		<img src="https://readme-stats.kyrie25.dev/api/wakatime?username=kyrie25&theme=react&layout=compact&range=last_7_days" />  
 	</a>
 </div>
 <div align="center">
