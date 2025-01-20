@@ -11,7 +11,7 @@
 	<a href="https://discord.com/users/368399721494216706" >  
 		<img src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square" />  
 	</a>  
-	<a href="https://last.fm/users/kyrie25">
+	<a href="https://last.fm/user/kyrie25">
 		<img src="https://lastfm-recently-played.vercel.app/api?user=kyrie25&count=3" height=200 />
 	</a>
 </div>
