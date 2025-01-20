@@ -11,13 +11,13 @@
 	</div>
 <div align="center">
 	<a href="http://kyrie25.dev" >  
-  		<img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react" />  
+  		<img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&card_width=300" />  
 	</a>
 </div>
 
 <div align="center">
 	<a href="http://kyrie25.dev" >  
-  		<img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=467" />  
+  		<img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=437" />  
 	</a>
 </div>
 <div align="center">
