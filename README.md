@@ -18,8 +18,8 @@
 
 <div align="center">
 	<a href="http://kyrie25.dev" >  
-	  	<img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react" width=400 />  
-	  	<img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415" height=167 />  
+	  	<img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width=400 />  
+	  	<img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 />  
 	</a>
 </div>
 
