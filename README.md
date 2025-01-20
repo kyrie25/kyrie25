@@ -9,10 +9,10 @@
 
 <div align="center">
 	<a href="https://discord.com/users/368399721494216706" >  
-		<img height=200 src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square" />  
+		<img src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square" />  
 	</a>  
 	<a href="https://last.fm/users/kyrie25">
-		<img height=200 src="https://lastfm-recently-played.vercel.app/api?user=kyrie25&count=3"/>
+		<img src="https://lastfm-recently-played.vercel.app/api?user=kyrie25&count=3" height=200 />
 	</a>
 </div>
 
