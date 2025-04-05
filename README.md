@@ -16,11 +16,3 @@
 	<a href="http://kyrie25.dev" ><img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width=400 /></a>
 	<a href="http://kyrie25.dev"><img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 />  </a>
 </div>
-
-<br>
-
-<div align="center">
-	<a href="https://hits.seeyoufarm.com">
-		<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyrie25&count_bg=%2357BDDA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=rrat+counter&edge_flat=false"/>
-	</a>
-</div>
