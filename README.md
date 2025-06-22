@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-	<a href="http://kyrie25.dev"><img src="https://readme-stats.kyrie25.dev/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width=400 /></a>
-	<a href="http://kyrie25.dev"><img src="https://readme-stats.kyrie25.dev/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 />  </a>
+	<a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api?username=kyrie25&include_all_commits=true&show_icons=true&count_private=true&custom_title=GitHub+Stats&theme=react&hide_border=true" width=400 /></a>
+	<a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=167 />  </a>
 </div>
 
 <div align="center">
-	<a href="http://kyrie25.dev"><img src="https://readme-stats.kyrie25.dev/api/wakatime?username=kyrie25&theme=react&layout=compact&hide_border=true" />  </a>
+	<a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kyrie25&theme=react&layout=compact&hide_border=true" />  </a>
 </div>
