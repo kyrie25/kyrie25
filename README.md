@@ -1,10 +1,10 @@
 <div align="center">
-	<h6>
-		<a href="https://x.com/riceshowerfan12/status/1954275092084482146">art source</a>
-	</h6>
 	<a href="http://kyrie25.dev">
 		 <img width="747" height="447" alt="rice-showerlings" src="https://github.com/user-attachments/assets/b463607f-a70c-4e9f-9b60-5ae5e6752bf1" />
 	</a>
+	<h6>
+		<a href="https://x.com/riceshowerfan12/status/1954275092084482146">art source</a>
+	</h6>
 </div>
 
 <br>
