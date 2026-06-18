@@ -1,10 +1,11 @@
 <div align="center">
-	<a href="https://x.com/riceshowerfan12/status/1954275092084482146">
-		 <img width="747" height="447" alt="rice-showerlings" src="https://github.com/user-attachments/assets/b463607f-a70c-4e9f-9b60-5ae5e6752bf1" />
+	<h6>❤️</h6>
+	<a href="https://x.com/Wuthering_Waves/status/2048585423933390870?s=20">
+		 <img width="3840" height="2160" alt="Denia" src="https://github.com/user-attachments/assets/9331d46f-f573-4cbe-95c6-31acbca9c53f" />
 	</a>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
 	<a href="https://discord.com/users/368399721494216706"><img src="https://lanyard.kyrie25.dev/api/368399721494216706?imgStyle=square" /></a>  
